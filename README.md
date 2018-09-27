@@ -13,8 +13,13 @@ Web Application Development
 ## Project Description:
 (Learning how to connect github to cloud9 and vice versa. Also summarrizing concepts learned in lesson 3.)
 
+## View Project
+https://krisialazo.github.io/lesson3_VersionControl/
+
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned about git basics)
+2. (learned about git repository)
+3. (learned about recording changes to the git repository)
+4. (learned a short history of git)
+5. (learned about version control)
 
